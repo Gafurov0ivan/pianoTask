@@ -1,5 +1,5 @@
 # Application for search questions in stackoverflow
-# Enter your search title and get questions in stackoverflow
+Enter your search title and get questions in stackoverflow
 
 # Start application
 
